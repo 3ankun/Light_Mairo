@@ -10,10 +10,8 @@ project/
 ├── collider.py # 碰撞体类，用于构建隐形平台/管道/机关  
 ├── mario_level_1.py # 游戏入口文件（事件循环）  
 ├── tools.py # 游戏框架控制器（FPS、状态切换）  
-├── assets/ # 资源文件夹（图像、音效等）  
-│ ├── level_1.png # 关卡背景图  
-│ ├── mario_bros.png # 马里奥角色图集  
-│ └── coin.png # 金币贴图  
+├── resources/ # 资源文件夹（图像、音效等）  
+  
   
   
   
